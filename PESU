@@ -1,0 +1,54 @@
+PESU – Codificare sintetică a echilibrului fluctuațional interscalar
+
+
+M. Belega
+
+⸻
+
+1. Postulat fundamental
+
+∂ₜP = −∇·J, J = μFP − D∇P, D = μkᴮT_eff.
+∀ scări l, lim_{Δ→0} ⟨ξ(Δ)⟩ = 0, ⟨ξ²(Δ)⟩ = 2DΔ.
+
+⇒ ∇·J = 0 ⇔ stare PESU (Echilibru Stocastic Universal).
+
+⸻
+
+2. Dualitatea disipație–fluctuație
+
+−γv ↔ √(2γkᴮT)ξ(t); η = μ⁻¹.
+Simetria fluctuațională: Σ = ∮ (J·dx)/D = 0 → minim entropic.
+
+⸻
+
+3. Translație gravitațională
+
+Metrică Rindler: ds² = −g_tt c²dt² + g_rr dr².
+Legea Tolman: T_loc √(−g_tt) = const = T_H.
+T_H = ħc³/(8πGMkᴮ).
+
+Ecuație FP curbată:
+∂ₜP = D∇²_g P − μ∇_g·(FP).
+
+⸻
+
+4. Simetria interscală
+
+∀ sisteme {Brownian, gravitațional}, ∃ Φ(x) s.t. P ∝ exp(−Φ/kᴮT_eff).
+D/(μkᴮT_eff) = 1 → Invarianță Einstein–Smoluchowski.
+
+⸻
+
+5. Corolar universal
+
+lim_{R→∞}(∇·J)=0 ⇔ entropie globală S = const.
+PESU ≈ principiu de covarianță fluctuațională:
+ ΔEΔt ≈ kᴮT_eff → constanță de ordine macro–micro.
+
+⸻
+
+6. Interpretare meta-fizică
+
+PESU ≡ simetrie a haosului compensat.
+Ordinea emergentă rezultă din echilibrul autoreglat al zgomotului.
+La limita Planck, Brownianul devine gravitație difuzivă cu randament maximal de informare
