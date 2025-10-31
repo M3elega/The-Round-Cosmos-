@@ -50,7 +50,7 @@ You may share and adapt the material with attribution, non-commercial use, and i
 
 ## 🌐 Official Links
 - **Reddit:** [r/roundcosmos](https://www.reddit.com/r/roundcosmos)  
-- **LinkedIn:** [M. Belega](https://www.linkedin.com/in/) *(add your exact profile link)*  
+- **LinkedIn:** [M. Belega](http://linkedin.com/in/mihail-belega-6bb3b269)   
 - **GitHub:** [github.com/M3elega](https://github.com/M3elega)
 
 ---
